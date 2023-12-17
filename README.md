@@ -1,5 +1,7 @@
 # IoT-system-for-incubating-dinosaur-eggs
 
+Link ảnh demo: https://github.com/khangnguyen911/IoT-system-for-incubating-dinosaur-eggs/blob/main/AnhDemo.png
+
 Mô hình trang trại ấp trứng khủng long
 
 Gồm có 2 khu:
